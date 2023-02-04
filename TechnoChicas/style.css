@@ -1,0 +1,33 @@
+body{
+    color: darkblue;
+    background-color: skyblue;
+}
+
+p, li{
+    color: rebeccapurple;
+}
+h3{
+    font-size: 25px;
+    color: rgb(88, 148, 148);
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    font-size: 25px;
+    color: rgb(123, 95, 148);
+    font-family: 'Merriweather', serif;
+
+}
+
+img{
+    width: 400;
+    height: 450;
+    border-style: groove;
+    border-width: 5px;
+    border-color: black;
+    padding: 25px;
+    margin: 20px;
+}
+div{
+    background-color: rgb(208, 141, 93);
+}
